@@ -5,6 +5,10 @@
   "license": "MIT",
   "dependencies": {
     "canvas": "^1.6.2",
+    "console-stamp": "^0.2.5",
     "pify": "^2.3.0"
+  },
+  "scripts": {
+    "randomize": "node --harmony test/randomize.js"
   }
 }

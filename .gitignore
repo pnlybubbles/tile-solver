@@ -77,4 +77,7 @@ node_modules
 
 # User Settings
 
-text/original
+test/original/*
+!test/original/.keep
+test/sample/*
+!test/sample/.keep
